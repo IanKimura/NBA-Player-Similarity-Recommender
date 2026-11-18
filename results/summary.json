@@ -1,0 +1,24 @@
+{
+  "snapshot_rows": 364,
+  "eligible_players": 356,
+  "features": [
+    "PTS_pg",
+    "FG%_pg",
+    "3P%_pg",
+    "FT%_pg",
+    "AST_pg",
+    "TOV_pg",
+    "USG%_adv",
+    "STL_pg",
+    "BLK_pg",
+    "DRB%_adv",
+    "TS%_adv",
+    "PER_adv",
+    "WS/48_adv",
+    "BPM_adv"
+  ],
+  "pca_explained_variance_ratio": [
+    0.389601989581217,
+    0.23958621394840257
+  ]
+}
